@@ -1,4 +1,4 @@
-# 🐦 Bird Blitz — 2D Bird Shooter Game
+Bird Blitz — 2D Bird Shooter Game
 
 A fun and engaging 2D bird shooter game built in Android using Kotlin. This project showcases fundamental Object-Oriented Programming concepts, real-time animation using the Cartesian coordinate system, and persistent score tracking. Equipped with sound effects and responsive controls, the game offers a dynamic shooting experience.
 
